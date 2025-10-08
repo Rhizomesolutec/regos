@@ -971,7 +971,7 @@ section,
 
 .hero .hero-bg {
   position: absolute;
-  background-image:linear-gradient(rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.6)), url("new/Final-Pic.png");
+  background-image:linear-gradient(rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.6)), url("../new/Final-pic.png");
   background-size: contain;
   background-repeat: no-repeat; 
   background-position: center; 
